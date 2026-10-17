@@ -1,0 +1,20 @@
+ALUVÍA + REALIDAD AUMENTADA
+===========================
+
+IMPORTANTE: NO abras index.html con doble clic. La AR (8th Wall) necesita
+cargarse desde un servidor web; abierta como archivo se queda en blanco.
+
+OPCIÓN A — Publicarla (recomendado, funciona en el celular)
+  1. Descomprime este zip.
+  2. Entra a https://app.netlify.com/drop y arrastra la CARPETA completa.
+  3. Abre el enlace https que te da y pulsa "Activar cámara AR".
+  (También sirven Vercel, GitHub Pages o Cloudflare Pages.)
+
+OPCIÓN B — Probarla en tu computador
+  - Windows: doble clic en iniciar-local.bat (necesita Python instalado).
+  - Mac: doble clic en iniciar-local.command.
+  - Luego abre http://localhost:8000
+  La cámara del computador funciona en localhost. Para probar en el celular
+  necesitas la Opción A (HTTPS).
+
+Mantén index.html y la carpeta ar/ juntos.
