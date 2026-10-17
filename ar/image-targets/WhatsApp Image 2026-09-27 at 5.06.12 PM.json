@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 100,
+    "left": 44,
+    "width": 652,
+    "height": 869,
+    "isRotated": false,
+    "originalWidth": 745,
+    "originalHeight": 1052
+  },
+  "imagePath": "image-targets/WhatsApp Image 2026-09-27 at 5.06.12 PM_luminance.jpg",
+  "metadata": null,
+  "name": "WhatsApp Image 2026-09-27 at 5.06.12 PM",
+  "resources": {
+    "originalImage": "WhatsApp Image 2026-09-27 at 5.06.12 PM_original.jpg",
+    "croppedImage": "WhatsApp Image 2026-09-27 at 5.06.12 PM_cropped.jpg",
+    "thumbnailImage": "WhatsApp Image 2026-09-27 at 5.06.12 PM_thumbnail.jpg",
+    "luminanceImage": "WhatsApp Image 2026-09-27 at 5.06.12 PM_luminance.jpg"
+  },
+  "created": 1792271909873,
+  "updated": 1792271919781
+}
